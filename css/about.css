@@ -1,0 +1,51 @@
+
+/*----------------About ME-------------*/
+
+.section-gap {
+    background-color: #01000e;
+    padding: 120px 0;
+}
+.mb-10 {
+    margin-bottom: 10px;
+    padding-top: 30px;
+}
+  .pb-70 {
+    padding-bottom: 40px;
+    background-color: #ccf5ff;
+}
+  ol, ul {
+    margin: 0;
+    padding: 0;
+    padding-top: 30px;
+    list-style: none;
+    background-color: aliceblue;
+}
+  .pb-120 {
+    padding-bottom: 120px;
+    background-color: aliceblue;
+}
+section.testimonial-area.section-gap {
+    background-color: aquamarine;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+  section.testimonial-area.section-gap {
+    background-color: aliceblue;
+}
+  @media (max-width: 991px){
+    .img-fluid {
+      max-width: 30px;
+      height: 20px;
+    }
+}
+  @media (max-width: 991px){
+    .img-fluid0 {
+      max-width: 350px;
+      height: 250px;
+    }
+}
+  @media (max-width: 991px){
+    img.img-fluid.mx-auto.d-block.mb-30 {
+      height: 20px;
+    }
+}
